@@ -11,6 +11,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
+| [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,5 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SriBalajiMandala/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
