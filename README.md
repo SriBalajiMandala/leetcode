@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
