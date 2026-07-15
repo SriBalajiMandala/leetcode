@@ -13,12 +13,14 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
