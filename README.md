@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SriBalajiMandala/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Array
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SriBalajiMandala/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
