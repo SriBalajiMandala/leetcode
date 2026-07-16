@@ -12,6 +12,7 @@
 | [0067-add-binary](https://github.com/SriBalajiMandala/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SriBalajiMandala/leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SriBalajiMandala/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SriBalajiMandala/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
