@@ -22,6 +22,7 @@
 | [0027-remove-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 | [1672-richest-customer-wealth](https://github.com/SriBalajiMandala/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2574-left-and-right-sum-differences](https://github.com/SriBalajiMandala/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SriBalajiMandala/leetcode/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/SriBalajiMandala/leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
