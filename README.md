@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/SriBalajiMandala/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SriBalajiMandala/leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/0258-add-digits) |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SriBalajiMandala/leetcode/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SriBalajiMandala/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
