@@ -24,6 +24,7 @@
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/SriBalajiMandala/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1991-find-the-middle-index-in-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/SriBalajiMandala/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
@@ -33,6 +34,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/SriBalajiMandala/leetcode/tree/master/0344-reverse-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SriBalajiMandala/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/0258-add-digits) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Number Theory
 |  |
 | ------- |
