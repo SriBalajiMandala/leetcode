@@ -14,6 +14,7 @@
 | [0258-add-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SriBalajiMandala/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SriBalajiMandala/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -23,6 +24,7 @@
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/SriBalajiMandala/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/SriBalajiMandala/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SriBalajiMandala/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
