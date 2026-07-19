@@ -5,7 +5,4 @@ class Solution:
         for i in gain:
             a+=i 
             n.append(a)
-        if max(n)<0:
-            return 0
-        else:
-            return max(n)
+        return 0 if max(n)<0 else max(n)
