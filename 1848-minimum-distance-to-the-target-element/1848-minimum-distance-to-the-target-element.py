@@ -5,9 +5,9 @@ class Solution:
         #     l.append(nums.index(target))
         # s=min(l)
         # return abs(s-start)
-        result = len(nums)
+        res = len(nums)
         for i in range(len(nums)):
             if nums[i] == target:
-                result = min(result, abs(i - start))
-        return result
+                res = min(res, abs(i - start))
+        return res
         
