@@ -28,6 +28,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/SriBalajiMandala/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
@@ -38,6 +39,7 @@
 | [0027-remove-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/SriBalajiMandala/leetcode/tree/master/0344-reverse-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/0013-roman-to-integer) |
+| [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Bit Manipulation
 |  |
@@ -77,6 +80,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SriBalajiMandala/leetcode/tree/master/0069-sqrtx) |
+| [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
 ## Recursion
 |  |
 | ------- |
