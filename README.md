@@ -22,6 +22,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/SriBalajiMandala/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/SriBalajiMandala/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -82,6 +83,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SriBalajiMandala/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SriBalajiMandala/leetcode/tree/master/0069-sqrtx) |
 | [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
 ## Recursion
