@@ -25,6 +25,7 @@
 | [0035-search-insert-position](https://github.com/SriBalajiMandala/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0136-single-number) |
+| [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/SriBalajiMandala/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SriBalajiMandala/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SriBalajiMandala/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Number Theory
 |  |
@@ -99,4 +101,8 @@
 | [1732-find-the-highest-altitude](https://github.com/SriBalajiMandala/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SriBalajiMandala/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
