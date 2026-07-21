@@ -68,6 +68,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SriBalajiMandala/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/SriBalajiMandala/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/SriBalajiMandala/leetcode/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/SriBalajiMandala/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/SriBalajiMandala/leetcode/tree/master/0476-number-complement) |
