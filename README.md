@@ -25,6 +25,7 @@
 | [0035-search-insert-position](https://github.com/SriBalajiMandala/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0136-single-number) |
+| [0485-max-consecutive-ones](https://github.com/SriBalajiMandala/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/SriBalajiMandala/leetcode/tree/master/1672-richest-customer-wealth) |
