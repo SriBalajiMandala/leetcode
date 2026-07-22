@@ -1,7 +1,7 @@
 class Solution:
     def sumOfUnique(self, nums: List[int]) -> int:
-        l=[]
+        l=0
         for i in nums:
             if nums.count(i)==1:
-                l.append(i)
-        return sum(l)
+                l+=i
+        return l
