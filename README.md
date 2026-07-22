@@ -16,6 +16,7 @@
 | [0507-perfect-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SriBalajiMandala/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1137-n-th-tribonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SriBalajiMandala/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -135,9 +136,11 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/SriBalajiMandala/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SriBalajiMandala/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
