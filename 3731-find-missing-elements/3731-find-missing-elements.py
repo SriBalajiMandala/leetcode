@@ -3,7 +3,7 @@ class Solution:
         l=[]
         ma=max(nums)
         mi=min(nums)
-        for i in range(mi,ma):
+        for i in range(mi,ma+1):
             if i not in nums:
                 l.append(i)
         return l
