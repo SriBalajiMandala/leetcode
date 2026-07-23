@@ -33,6 +33,7 @@
 | [0260-single-number-iii](https://github.com/SriBalajiMandala/leetcode/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/SriBalajiMandala/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/SriBalajiMandala/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/SriBalajiMandala/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SriBalajiMandala/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/SriBalajiMandala/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SriBalajiMandala/leetcode/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/SriBalajiMandala/leetcode/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
 ## Recursion
 |  |
