@@ -83,6 +83,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SriBalajiMandala/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/SriBalajiMandala/leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SriBalajiMandala/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/SriBalajiMandala/leetcode/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/SriBalajiMandala/leetcode/tree/master/0461-hamming-distance) |
@@ -152,4 +153,8 @@
 | [0070-climbing-stairs](https://github.com/SriBalajiMandala/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/SriBalajiMandala/leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
