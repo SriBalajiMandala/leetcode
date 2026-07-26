@@ -38,6 +38,7 @@
 | [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SriBalajiMandala/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/SriBalajiMandala/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SriBalajiMandala/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/1748-sum-of-unique-elements) |
