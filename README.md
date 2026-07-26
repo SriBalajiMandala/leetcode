@@ -17,6 +17,7 @@
 | [0326-power-of-three](https://github.com/SriBalajiMandala/leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SriBalajiMandala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SriBalajiMandala/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -36,6 +37,7 @@
 | [0260-single-number-iii](https://github.com/SriBalajiMandala/leetcode/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/SriBalajiMandala/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SriBalajiMandala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SriBalajiMandala/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SriBalajiMandala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
