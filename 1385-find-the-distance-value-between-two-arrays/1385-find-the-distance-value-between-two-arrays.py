@@ -7,6 +7,7 @@ class Solution:
             for j in arr2:
                 if abs(i-j)<=d:
                     valid=False
+                    break
             if valid:
                 a+=1
         return a
