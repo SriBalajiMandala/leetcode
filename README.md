@@ -42,6 +42,7 @@
 | [0704-binary-search](https://github.com/SriBalajiMandala/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/SriBalajiMandala/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SriBalajiMandala/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0414-third-maximum-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SriBalajiMandala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -164,4 +166,8 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/SriBalajiMandala/leetcode/tree/master/0190-reverse-bits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
