@@ -45,6 +45,7 @@
 | [0704-binary-search](https://github.com/SriBalajiMandala/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/SriBalajiMandala/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SriBalajiMandala/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -83,6 +84,7 @@
 | [0013-roman-to-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0202-happy-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2670-find-the-distinct-difference-array) |
@@ -149,6 +151,7 @@
 | [0169-majority-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SriBalajiMandala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/3731-find-missing-elements) |
@@ -179,4 +182,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
