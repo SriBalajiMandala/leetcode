@@ -35,6 +35,7 @@
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriBalajiMandala/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/SriBalajiMandala/leetcode/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/SriBalajiMandala/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0202-happy-number) |
 | [1748-sum-of-unique-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
@@ -142,6 +144,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SriBalajiMandala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -150,6 +153,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Dynamic Programming
 |  |
@@ -167,6 +171,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SriBalajiMandala/leetcode/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
