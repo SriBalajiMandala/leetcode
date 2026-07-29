@@ -77,6 +77,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SriBalajiMandala/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/SriBalajiMandala/leetcode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0520-detect-capital](https://github.com/SriBalajiMandala/leetcode/tree/master/0520-detect-capital) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SriBalajiMandala/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
+| [3794-reverse-string-prefix](https://github.com/SriBalajiMandala/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
