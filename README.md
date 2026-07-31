@@ -14,6 +14,7 @@
 | [0070-climbing-stairs](https://github.com/SriBalajiMandala/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SriBalajiMandala/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/SriBalajiMandala/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0507-perfect-number) |
@@ -221,4 +222,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SriBalajiMandala/leetcode/tree/master/0796-rotate-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
