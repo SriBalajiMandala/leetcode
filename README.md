@@ -26,6 +26,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SriBalajiMandala/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2525-categorize-box-according-to-criteria](https://github.com/SriBalajiMandala/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3536-maximum-product-of-two-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SriBalajiMandala/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
