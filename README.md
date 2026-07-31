@@ -15,6 +15,7 @@
 | [0202-happy-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/SriBalajiMandala/leetcode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/SriBalajiMandala/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SriBalajiMandala/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -88,6 +89,7 @@
 | [0067-add-binary](https://github.com/SriBalajiMandala/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SriBalajiMandala/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SriBalajiMandala/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/SriBalajiMandala/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/SriBalajiMandala/leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/SriBalajiMandala/leetcode/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SriBalajiMandala/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SriBalajiMandala/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/SriBalajiMandala/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/SriBalajiMandala/leetcode/tree/master/2974-minimum-number-game) |
