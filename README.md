@@ -124,6 +124,7 @@
 | [0067-add-binary](https://github.com/SriBalajiMandala/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SriBalajiMandala/leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/SriBalajiMandala/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SriBalajiMandala/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/SriBalajiMandala/leetcode/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/SriBalajiMandala/leetcode/tree/master/0461-hamming-distance) |
@@ -219,6 +220,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SriBalajiMandala/leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/SriBalajiMandala/leetcode/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
