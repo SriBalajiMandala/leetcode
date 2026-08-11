@@ -99,6 +99,7 @@
 | [0520-detect-capital](https://github.com/SriBalajiMandala/leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/SriBalajiMandala/leetcode/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SriBalajiMandala/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1844-replace-all-digits-with-characters](https://github.com/SriBalajiMandala/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/SriBalajiMandala/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
