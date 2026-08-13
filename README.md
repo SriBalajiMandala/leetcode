@@ -97,6 +97,7 @@
 | [0067-add-binary](https://github.com/SriBalajiMandala/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SriBalajiMandala/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SriBalajiMandala/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/SriBalajiMandala/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/SriBalajiMandala/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/SriBalajiMandala/leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/SriBalajiMandala/leetcode/tree/master/0796-rotate-string) |
@@ -114,6 +115,7 @@
 | [0169-majority-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SriBalajiMandala/leetcode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/SriBalajiMandala/leetcode/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SriBalajiMandala/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SriBalajiMandala/leetcode/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SriBalajiMandala/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/1748-sum-of-unique-elements) |
