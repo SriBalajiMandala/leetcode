@@ -67,6 +67,7 @@
 | [1732-find-the-highest-altitude](https://github.com/SriBalajiMandala/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SriBalajiMandala/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1929-concatenation-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -151,6 +152,7 @@
 | [0258-add-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SriBalajiMandala/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2562-find-the-array-concatenation-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2974-minimum-number-game](https://github.com/SriBalajiMandala/leetcode/tree/master/2974-minimum-number-game) |
