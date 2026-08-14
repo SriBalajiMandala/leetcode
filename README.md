@@ -16,6 +16,7 @@
 | [0258-add-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SriBalajiMandala/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SriBalajiMandala/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/SriBalajiMandala/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0509-fibonacci-number) |
@@ -135,6 +136,7 @@
 | [0191-number-of-1-bits](https://github.com/SriBalajiMandala/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SriBalajiMandala/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/SriBalajiMandala/leetcode/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/SriBalajiMandala/leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/SriBalajiMandala/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/SriBalajiMandala/leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SriBalajiMandala/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -180,6 +182,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/SriBalajiMandala/leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/SriBalajiMandala/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SriBalajiMandala/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
