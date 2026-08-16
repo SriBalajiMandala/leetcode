@@ -109,6 +109,7 @@
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/SriBalajiMandala/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/SriBalajiMandala/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SriBalajiMandala/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SriBalajiMandala/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/SriBalajiMandala/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
