@@ -90,6 +90,7 @@
 | [0344-reverse-string](https://github.com/SriBalajiMandala/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SriBalajiMandala/leetcode/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SriBalajiMandala/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2000-reverse-prefix-of-word](https://github.com/SriBalajiMandala/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -114,6 +115,7 @@
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/SriBalajiMandala/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/SriBalajiMandala/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SriBalajiMandala/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2000-reverse-prefix-of-word](https://github.com/SriBalajiMandala/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SriBalajiMandala/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/SriBalajiMandala/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -208,6 +210,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SriBalajiMandala/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2000-reverse-prefix-of-word](https://github.com/SriBalajiMandala/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
