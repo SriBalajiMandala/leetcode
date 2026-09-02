@@ -55,6 +55,7 @@
 | [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SriBalajiMandala/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0896-monotonic-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriBalajiMandala/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
