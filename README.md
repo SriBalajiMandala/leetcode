@@ -79,6 +79,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2574-left-and-right-sum-differences](https://github.com/SriBalajiMandala/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SriBalajiMandala/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2670-find-the-distinct-difference-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/SriBalajiMandala/leetcode/tree/master/2974-minimum-number-game) |
@@ -294,4 +295,8 @@
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SriBalajiMandala/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+## Greedy
+|  |
+| ------- |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
