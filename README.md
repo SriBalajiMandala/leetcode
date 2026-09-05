@@ -75,6 +75,7 @@
 | [1929-concatenation-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
@@ -97,6 +98,7 @@
 | [0392-is-subsequence](https://github.com/SriBalajiMandala/leetcode/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SriBalajiMandala/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/SriBalajiMandala/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SriBalajiMandala/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -123,6 +125,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SriBalajiMandala/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/SriBalajiMandala/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SriBalajiMandala/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/SriBalajiMandala/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
