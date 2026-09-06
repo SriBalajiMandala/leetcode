@@ -1,4 +1,11 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        return sorted(s)==sorted(t)
+        # return sorted(s)==sorted(t)
+        if len(s) != len(t):
+            return False
+
+        for ch in set(s):
+            if s.count(ch) != t.count(ch):
+                return False
+        return True
                 
