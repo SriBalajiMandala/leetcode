@@ -127,6 +127,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/SriBalajiMandala/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SriBalajiMandala/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2716-minimize-string-length](https://github.com/SriBalajiMandala/leetcode/tree/master/2716-minimize-string-length) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/SriBalajiMandala/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -148,6 +149,7 @@
 | [2540-minimum-common-value](https://github.com/SriBalajiMandala/leetcode/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SriBalajiMandala/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2670-find-the-distinct-difference-array) |
+| [2716-minimize-string-length](https://github.com/SriBalajiMandala/leetcode/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/SriBalajiMandala/leetcode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
