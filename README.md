@@ -120,6 +120,7 @@
 | [0520-detect-capital](https://github.com/SriBalajiMandala/leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/SriBalajiMandala/leetcode/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SriBalajiMandala/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SriBalajiMandala/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1844-replace-all-digits-with-characters](https://github.com/SriBalajiMandala/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/SriBalajiMandala/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/SriBalajiMandala/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SriBalajiMandala/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SriBalajiMandala/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/SriBalajiMandala/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -309,4 +311,8 @@
 |  |
 | ------- |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SriBalajiMandala/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
