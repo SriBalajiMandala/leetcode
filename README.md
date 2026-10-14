@@ -50,6 +50,7 @@
 | [0169-majority-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SriBalajiMandala/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/SriBalajiMandala/leetcode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/SriBalajiMandala/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SriBalajiMandala/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -94,6 +95,7 @@
 | [0027-remove-element](https://github.com/SriBalajiMandala/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/SriBalajiMandala/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/SriBalajiMandala/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SriBalajiMandala/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SriBalajiMandala/leetcode/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SriBalajiMandala/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
