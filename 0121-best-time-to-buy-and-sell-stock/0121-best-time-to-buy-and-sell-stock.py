@@ -11,6 +11,7 @@ class Solution:
         for i in prices:
             if i<m:
                 m=i
+            print(m)
             p=i-m
             if p>ma:
                 ma=p
