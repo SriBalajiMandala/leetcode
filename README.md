@@ -113,6 +113,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SriBalajiMandala/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/SriBalajiMandala/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SriBalajiMandala/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SriBalajiMandala/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SriBalajiMandala/leetcode/tree/master/0125-valid-palindrome) |
@@ -234,6 +235,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SriBalajiMandala/leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SriBalajiMandala/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SriBalajiMandala/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -324,5 +326,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SriBalajiMandala/leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SriBalajiMandala/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
