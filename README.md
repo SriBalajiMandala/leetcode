@@ -66,6 +66,7 @@
 | [0682-baseball-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SriBalajiMandala/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SriBalajiMandala/leetcode/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/SriBalajiMandala/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0896-monotonic-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0896-monotonic-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriBalajiMandala/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -289,6 +290,7 @@
 | [0338-counting-bits](https://github.com/SriBalajiMandala/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SriBalajiMandala/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/SriBalajiMandala/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
