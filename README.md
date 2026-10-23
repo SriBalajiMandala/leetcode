@@ -57,6 +57,7 @@
 | [0260-single-number-iii](https://github.com/SriBalajiMandala/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SriBalajiMandala/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/SriBalajiMandala/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SriBalajiMandala/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -217,6 +218,7 @@
 | [0069-sqrtx](https://github.com/SriBalajiMandala/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/SriBalajiMandala/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/SriBalajiMandala/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/SriBalajiMandala/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriBalajiMandala/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -280,6 +282,7 @@
 | [0053-maximum-subarray](https://github.com/SriBalajiMandala/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SriBalajiMandala/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriBalajiMandala/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/SriBalajiMandala/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/SriBalajiMandala/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SriBalajiMandala/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -342,4 +345,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SriBalajiMandala/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SriBalajiMandala/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
