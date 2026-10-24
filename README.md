@@ -31,6 +31,7 @@
 | [1512-number-of-good-pairs](https://github.com/SriBalajiMandala/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/SriBalajiMandala/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SriBalajiMandala/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/SriBalajiMandala/leetcode/tree/master/2409-count-days-spent-together) |
 | [2525-categorize-box-according-to-criteria](https://github.com/SriBalajiMandala/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/SriBalajiMandala/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -142,6 +143,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/SriBalajiMandala/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SriBalajiMandala/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SriBalajiMandala/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2409-count-days-spent-together](https://github.com/SriBalajiMandala/leetcode/tree/master/2409-count-days-spent-together) |
 | [2716-minimize-string-length](https://github.com/SriBalajiMandala/leetcode/tree/master/2716-minimize-string-length) |
 | [2942-find-words-containing-character](https://github.com/SriBalajiMandala/leetcode/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/SriBalajiMandala/leetcode/tree/master/3794-reverse-string-prefix) |
