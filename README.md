@@ -47,6 +47,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SriBalajiMandala/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SriBalajiMandala/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SriBalajiMandala/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriBalajiMandala/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SriBalajiMandala/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SriBalajiMandala/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriBalajiMandala/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SriBalajiMandala/leetcode/tree/master/0198-house-robber) |
@@ -343,6 +345,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0055-jump-game) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SriBalajiMandala/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Bracket Sequences
 |  |
