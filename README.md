@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/SriBalajiMandala/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SriBalajiMandala/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SriBalajiMandala/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SriBalajiMandala/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SriBalajiMandala/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SriBalajiMandala/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SriBalajiMandala/leetcode/tree/master/0069-sqrtx) |
@@ -287,6 +288,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SriBalajiMandala/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SriBalajiMandala/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/SriBalajiMandala/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SriBalajiMandala/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriBalajiMandala/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SriBalajiMandala/leetcode/tree/master/0198-house-robber) |
@@ -360,4 +362,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SriBalajiMandala/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SriBalajiMandala/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
